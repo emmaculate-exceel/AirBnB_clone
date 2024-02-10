@@ -4,6 +4,11 @@ console file
 for the console app
 programmes
 """
-
-
-print("Hi Users !!!")
+def greetings():
+    """
+    the is an introductory
+    message to all
+    our users of the console App
+    """
+    return print("Hi Users!!!")
+greetings()
