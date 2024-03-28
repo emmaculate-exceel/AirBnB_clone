@@ -1,0 +1,34 @@
+.places{
+	width:30px;
+}
+article{
+	width:390px;
+	padding:20px;
+	margin:20px;
+	border:1px #FF5A5F;
+	border-radius:4px;
+}
+h2{
+	font-size:30px;
+	display:flex;
+	justify-content:center;
+}
+.price_by_night{
+	font-color:#FF5A5F;
+	border:4px #FF5A5F rounded;
+	min-width:60px;
+	height:60px;
+	font-size:30px;
+}
+.information{
+	height:80px;
+	border-top:1px #DDDDDD;
+	border-bottom:1px #DDDDDD;
+	justify-content:center;
+}
+.max_guest, number_rooms, number_bathrooms{
+	width:100px;
+}
+.max_guest{
+	background-image: url('styles/');
+	

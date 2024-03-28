@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+	<html lang='en'>
+		<head>
+		  <title>webstatic</title>
+		  <link href='images/icon.png' type='image/x-icon' rel='icon'>
+		  <link href='styles/common.css' type='text/css' rel='stylesheet'>
+		  <link href='styles/header.css' type='text/css' rel='stylesheet'>
+		  <link href='styles/footer.css' type='text/css' rel='stylesheet'>
+		  <link href='styles/filter.css' type='text/css' rel='stylesheet'>
+		  <link href='styles/7-places.css' type='text/css' rel='stylesheet'>
+		</head>
+		<body>
+		  <header>
+			<div class='img'></div>
+		  </header>
+		  <div class="container">
+			<section class="filters">
+			  <div class='locations'>
+				<h3>States</h3>
+				<h4>text with fake contents</h4>
+				<div class='popover'>
+				  <ul>
+					<h2>Arizona</h2>
+					<li>Page</li>
+					<li>Page2</li>
+				  </ul>
+				  <ul>
+					<h2>California</h2>
+					<li>San francisco</li>
+					<li>Los Angelos</li>
+				  </ul>
+				</div>
+				<div class='popover'>
+				  <ul>
+					<li>Internet</li>
+					<li>Tv</li>
+					<li>Kitchen</li>
+					<li>Iron</li>
+				  </ul>
+			  </div>
+			  <div class='amenities'>
+				<h3>Amenities</h3>
+				<h4>text with fake contents</h4>
+			  </div>
+			  <button class="">Search</button>
+			</section>
+			<section class='places'>
+			  <h1>Places</h1>
+			  <article>
+				<h2>My home</h2>
+			  </article>
+			  <article>
+				<h2>Tine house</h2>
+			  </article>
+			  <article>
+				<h2>Main house</h2>
+			  </article>
+			</section>
+		  </div>
+		  <footer>
+				Best School
+		  </footer>
+		</body>
+	</html>
